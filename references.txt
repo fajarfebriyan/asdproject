@@ -1,0 +1,8 @@
+references
+http://stackoverflow.com/questions/1370323/printing-an-array-in-c
+http://code.runnable.com/UpSpP5ymsslIAAFo/reading-a-file-into-an-array-for-c%2B%2B-and-fstream
+https://puncakdunia.wordpress.com/2012/06/06/operasi-file-membaca-file-teks-c/
+http://www.cplusplus.com/forum/beginner/78150/
+http://www.cplusplus.com/doc/tutorial/files/
+http://stackoverflow.com/questions/18398167/how-to-copy-a-txt-file-to-a-char-array-in-c
+http://stackoverflow.com/questions/14306867/print-out-elements-of-an-array-of-strings-in-c
